@@ -1,0 +1,17 @@
+{
+    "rolesJDE": [
+      {
+        "rol": "ABA_SOL"
+      },
+      {
+        "rol": "*PUBLIC"
+      }
+    ],
+    "nombreObjeto": "F3411",
+    "aliasDD": "MCU",
+    "accionJDE": "I",
+    "unidadNegocio":"00001",
+    "seguridadInclusiva": true,
+    "seguridadCCActivada": true,
+    "token":"044C+70oiQeDKTfmN3pJQzpUz6cP3yJQLufiBsBo1Y//0s=MDE5MDEzMjE0NjQwMjIyMTI3MjQyMDYzMTE3Mi4zMC4zMC4yMzYxNzgxMTAwNDcwODI3"
+}

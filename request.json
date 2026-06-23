@@ -1,0 +1,14 @@
+{
+    "rolesJDE": [
+      {
+        "rol": "ABA_SOL"
+      }
+    ],
+    "nombreObjeto": "F0901",
+    "aliasDD": "MCU",
+    "accionJDE": "A",
+    "unidadNegocio": "020000",
+    "seguridadInclusiva": false,
+    "seguridadCCActivada": true,
+    "token": "044c9OCg4lqj2vpRp8AnalU8m/q/oUUW1wKoCTEAGXCXGw=MDE5MDEyNjk2OTU1NTAzMTUwNTIwOTgwNTE3Mi4zMC4zMC44MjE3ODEyMDgxMjQ4MjY="
+  }
